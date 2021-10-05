@@ -1,0 +1,7 @@
+bin/
+src/
+node_modules/
+.idea/
+.serverless/
+.github/
+config/
